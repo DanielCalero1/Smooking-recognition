@@ -1,2 +1,2 @@
 # Smooking-recognition
-In this repository we use pre trained neural networks such as VGG, ResNet, ResNetXt to classify photos where people are smooking.
+This branch is dedicated to the pre-trained ResNet model and apply it to the recognition of pictures of people smooking
