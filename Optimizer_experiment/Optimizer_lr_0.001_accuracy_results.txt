@@ -1,0 +1,44 @@
+Optimizer: Adam
+Epoch	Training Accuracy (%)	Validation Accuracy (%)
+1	49.74	59.25
+2	70.40	70.25
+3	76.84	82.00
+4	82.82	72.25
+5	85.39	73.50
+6	83.72	83.25
+7	86.60	78.50
+8	87.89	76.25
+
+Optimizer: RMSprop
+Epoch	Training Accuracy (%)	Validation Accuracy (%)
+1	60.64	54.25
+2	64.19	79.25
+3	75.02	52.75
+4	76.08	69.75
+5	84.94	76.00
+6	82.21	76.00
+7	80.92	73.50
+8	86.30	62.50
+
+Optimizer: SGD
+Epoch	Training Accuracy (%)	Validation Accuracy (%)
+1	72.37	72.50
+2	83.04	77.50
+3	85.16	79.00
+4	87.74	79.50
+5	87.51	80.50
+6	87.43	80.50
+7	87.36	81.75
+8	87.66	81.50
+
+Optimizer: SGD_momentum
+Epoch	Training Accuracy (%)	Validation Accuracy (%)
+1	87.96	80.25
+2	87.43	80.25
+3	87.43	82.25
+4	88.34	80.25
+5	87.51	80.00
+6	87.81	80.50
+7	87.96	80.50
+8	87.96	81.00
+
